@@ -1,4 +1,4 @@
-const CACHE_NAME = 'dompet-pintar-v1.0.2';
+const CACHE_NAME = 'dompet-pintar-v1.0.3';
 const urlsToCache = [
   './index.html',
   './icon.png',
@@ -49,3 +49,4 @@ self.addEventListener('activate', event => {
   );
 
 });
+
